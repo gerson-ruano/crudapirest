@@ -1,0 +1,40 @@
+{
+  "empresas": [
+    {
+      "nombre": "Esteban",
+      "pais": "Belize",
+      "capital_bursatil": "14124",
+      "id": 5
+    },
+    {
+      "id": 7,
+      "nombre": "Federico R",
+      "pais": "EUA",
+      "capital_bursatil": "23345654"
+    },
+    {
+      "id": 8,
+      "nombre": "Expres S.A.",
+      "pais": "Guatemala",
+      "capital_bursatil": "923437"
+    },
+    {
+      "id": 14,
+      "nombre": "Bananas Gomez",
+      "pais": "Venezuela",
+      "capital_bursatil": "234932"
+    },
+    {
+      "nombre": "GR Corporations",
+      "pais": "Guatemala",
+      "capital_bursatil": "723648627",
+      "id": 15
+    },
+    {
+      "nombre": "mi empresa",
+      "pais": "Guatemala",
+      "capital_bursatil": "1241414",
+      "id": 16
+    }
+  ]
+}
